@@ -1,5 +1,12 @@
 # Changelog
 
+## [0.1.2-rc](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/compare/v0.1.1...v0.1.2-rc) (2025-06-10)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump postgres in /fusionauth/latest ([#17](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/17)) ([59c5d7b](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/59c5d7b6029db21b9983f43022bec3cf7a3d27b6))
+
 ## [0.1.1](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/compare/v0.1.0...v0.1.1) (2025-05-16)
 
 
