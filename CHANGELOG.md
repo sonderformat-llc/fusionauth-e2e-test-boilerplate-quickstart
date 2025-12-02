@@ -1,5 +1,18 @@
 # Changelog
 
+## [0.1.2-rc](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/compare/v0.1.1...v0.1.2-rc) (2025-12-02)
+
+
+### Miscellaneous Chores
+
+* **deps:** bump actions/checkout in the prod-github-actions group ([#40](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/40)) ([b4a7dcb](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/b4a7dcb805b5a1424108f080c579b6145f9e3f57))
+* **deps:** bump actions/setup-node in the prod-github-actions group ([#27](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/27)) ([9201d61](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/9201d617d99c813886a4f519134428a8432e429c))
+* **deps:** bump fusionauth/fusionauth-app in /fusionauth/latest ([#30](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/30)) ([2354dbe](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/2354dbea78f94cab47b56874c56f19a5b49bd049))
+* **deps:** bump opensearchproject/opensearch in /fusionauth/latest ([#25](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/25)) ([00c9509](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/00c9509a76c0a455165fe098dedcbb0ce0f1dbf7))
+* **deps:** bump postgres in /fusionauth/latest ([#17](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/17)) ([59c5d7b](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/59c5d7b6029db21b9983f43022bec3cf7a3d27b6))
+* **deps:** bump the prod-github-actions group across 1 directory with 2 updates ([#37](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/37)) ([3bdab67](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/3bdab6735d207f428534d188de53be91af6298a9))
+* **deps:** bump the prod-github-actions group with 2 updates ([#23](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/issues/23)) ([ec4458e](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/commit/ec4458e1a438d4e1666cb36e5ab616a514943dd8))
+
 ## [0.1.1](https://github.com/sonderformat-llc/fusionauth-e2e-test-boilerplate-quickstart/compare/v0.1.0...v0.1.1) (2025-05-16)
 
 
